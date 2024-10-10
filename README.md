@@ -12,5 +12,3 @@ Currently a 2nd year student at the National University of Singapore<br>Looking 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Justincjr&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Justincjr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
