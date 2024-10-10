@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on an eductioal webapp<br>I'm looking to collaborate open source projects or hackathons<br>I'm looking for help with machine learning<br>I'm currently learning React and C<br>Ask me about chess (although im not very good)<br>Reach me at justinchoojr@gmail.com
+I'm currently working on an eductional webapp<br>I'm looking to collaborate open source projects or hackathons<br>I'm looking for help with machine learning and AI<br>I'm currently learning React and C<br>Ask me about chess (although im not very good)<br>Reach me at justinchoojr@gmail.com
 
 
 ## 🌐 Socials:
