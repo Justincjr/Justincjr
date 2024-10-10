@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Justin+Choo!;" />
 </h1>
 
-<h3 align="center">A second year student from National University of Singapore</h3>
+<h3 align="center">2nd Year Computer Science student from National University of Singapore</h3>
 
 <br/>
 
