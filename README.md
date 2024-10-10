@@ -1,5 +1,5 @@
-# 💫 About Me:
-I'm currently a 2nd year student at the National University of Singapore<br>I'm looking to collaborate open source projects or hackathons<br>I'm looking for help with machine learning and AI<br>I'm currently learning React and C<br>Ask me about chess (although im not very good)<br>Reach me at justinchoojr@gmail.com
+# 💫 Hi, I'm Justin!
+Currently a 2nd year student at the National University of Singapore<br>Looking to collaborate open source projects or hackathons<br>Looking for help with machine learning and AI<br>Currently learning React and C<br>Ask me about chess (although im not very good)<br>Reach me at justinchoojr@gmail.com
 
 
 ## 🌐 Socials:
