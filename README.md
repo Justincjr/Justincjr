@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **React and C**
 
-💬 Ask me about **Chess... or anything [here](https://github.com/Justincjr/Justincjr/issues)**
+💬 Ask me about **Java... or anything [here](https://github.com/Justincjr/Justincjr/issues)**
 
 ⚡ Fun fact **Bananas are berries, but strawberries aren’t**
 
