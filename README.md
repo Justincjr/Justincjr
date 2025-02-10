@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **an enducational webapp**
+ 🔭 I’m currently working on **an educational webapp**
  
- 🌱 I’m currently learning **React and C**
+ 🌱 I’m currently learning **AI and Machine Learning**
 
 💬 Ask me about **Java... or anything [here](https://github.com/Justincjr/Justincjr/issues)**
 
