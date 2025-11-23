@@ -18,6 +18,8 @@
 
 ⚡ Fun fact **Bananas are berries, but strawberries aren’t**
 
+Support my pdf tool [here](https://justincjr.github.io/pdf-tool/)
+
  </div>
  
 <div align="center"> 
